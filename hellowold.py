@@ -1,3 +1,3 @@
 # Test Python print function
 
-pdrint("hii parshant09")
+print("hii parshant09")
